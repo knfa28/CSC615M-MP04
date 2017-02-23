@@ -1,0 +1,16 @@
+1,shR,1
+2,const,1
+3,shL,1
+4,swap
+5,shR,2
+6,copy,2
+7,copy,2
+8,shL,2
+9,gotoEQ,14
+10,copy,2
+11,shL,1
+12,inc
+13,goto,3
+14,shL,1
+15,pushL
+16,halt
